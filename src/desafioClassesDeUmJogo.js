@@ -73,7 +73,7 @@ const guerreiro = new heroi("Goku", 30, "guerreiro");
 const monge = new heroi("Aang", 12, "monge");
 const ninja = new heroi("Jack Chan", 27, "ninja");
 
-mago.atacar(); // O mago Dumbledore tem 2000 anos e atacou usando magia
+mago.atacar(); // O mago Dumbledore tem 116 anos e atacou usando magia
 guerreiro.atacar(); // O guerreiro Goku tem 30 anos e atacou usando espada
 monge.atacar(); // O monge Aang tem 12 anos e atacou usando artes marciais
 ninja.atacar(); // O ninja Jack Chan tem 27 anos e atacou usando usou shuriken
