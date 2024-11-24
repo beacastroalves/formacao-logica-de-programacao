@@ -68,7 +68,7 @@ class heroi {
   }
 }
 
-const mago = new heroi("Dumbledore", 2000, "mago");
+const mago = new heroi("Dumbledore", 116, "mago");
 const guerreiro = new heroi("Goku", 30, "guerreiro");
 const monge = new heroi("Aang", 12, "monge");
 const ninja = new heroi("Jack Chan", 27, "ninja");
